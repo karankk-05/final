@@ -45008,8 +45008,7 @@ default:throw A.d(A.bW("no widget for "+s))}}}
 A.amb.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l="assets/logo.png",k=this.a,j=t.p
 if(b.b>=600){s=A.A(a)
-k.a.toString
-r=A.aE("Welcome null to MyMail  :)",m,m,m,A.bA(m,m,A.A(a).ay.c,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
+r=A.aE("Welcome to MyMail  :)",m,m,m,A.bA(m,m,A.A(a).ay.c,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
 q=A.pg(A.A(a).ay.c,m,A.d4(B.fu,m,m,m),m,new A.am3(a),m,m,m,m)
 r=A.a0k(A.b([A.rs(A.cR(A.b([A.pg(A.A(a).ay.b,m,A.d4(B.jj,m,m,m),m,new A.am4(k,a),m,m,m,m),new A.aT(B.E4,A.aE("Search",m,m,m,A.bA(m,m,A.A(a).ay.b,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),m)],j),B.A,B.v,B.B,m),m,m),new A.aT(B.n4,A.Dm(A.LF(l,100,50),0.8),m)],j),s.ay.b,m,q,r)
 q=A.A(a).ay
@@ -45028,8 +45027,7 @@ j=A.cR(A.b([s,A.h5(A.dt(m,k.JU(),B.k,q,m,m,m,m,m,m),1,m)],j),B.A,B.v,B.B,m)
 q=A.A(a)
 k=A.aE("Compose",m,m,m,A.bA(m,m,A.A(a).ay.c,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
 return A.lB(r,m,j,m,new A.cc(B.zX,m,m,new A.aT(B.Er,new A.z1(A.d4(B.nA,A.A(a).ay.c,m,m),q.ay.b,new A.am6(a),B.bl,!0,B.zy,k,m),m),m),m)}else{s=A.A(a)
-k.a.toString
-r=A.aE("Welcome null ",m,m,m,A.bA(m,m,A.A(a).ay.c,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
+r=A.aE("Welcome",m,m,m,A.bA(m,m,A.A(a).ay.c,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
 q=A.pg(A.A(a).ay.c,m,A.d4(B.fu,m,m,m),m,new A.am7(a),m,m,m,m)
 r=A.a0k(A.b([new A.aT(B.aD,A.pg(A.A(a).ay.c,m,A.d4(B.jj,m,m,m),m,new A.am8(k,a),m,m,m,m),m),new A.aT(B.n4,A.Dm(A.LF(l,100,50),0.8),m)],j),s.ay.b,m,q,r)
 q=k.JU()
